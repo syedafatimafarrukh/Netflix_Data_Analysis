@@ -1,6 +1,5 @@
 # Netflix_Data_Analysis
 A data analysis project exploring Netflix movies — including genre distribution, rating categorization, popularity trends, and release year insights — using Python (pandas, seaborn, matplotlib).
-# 🎬 Netflix Data Analysis
 
 ## 🔍 Overview
 This project analyzes Netflix movie data to uncover key insights about genres, ratings, popularity, and release trends. It includes data cleaning, transformation, and visualization using Python libraries such as **pandas**, **matplotlib**, and **seaborn**.
